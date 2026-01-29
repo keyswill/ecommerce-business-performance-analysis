@@ -65,17 +65,12 @@ The focus is on business interpretation rather than purely technical metrics.
 ---
 
 ## Project Structure
-ecommerce-business-performance-analysis/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── analysis/
-├── dashboard/
-├── visuals/
-├── notes/
-└── README.md
+- data (raw & processed)
+- analysis
+- dashboard
+- visuals
+- notes
+-  README.md
 
 ---
 
